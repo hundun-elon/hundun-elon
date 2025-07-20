@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💭 Siphamandla Mbuyazi
 
-<!--
-**hundun-elon/hundun-elon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Honors Student | Data Scientist | Software Developer | CTF Player | Founder of Hundun Explains**
 
-Here are some ideas to get you started:
+🚀 I love solving problems, could it be though building software, building machine learning models, learning new things or even breaking software.  
+🌍 I am currently building [Hundun Explains](https://hundun.vercel.app) and learning ideas and mathematics of in deep learning.  
+🔒 Check out my CTF profile: [picoCTF](https://play.picoctf.org/users/Sphamandla-Mbuyazi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Technologies
+- 🌐 HTML | CSS | JavaScript | React | 
+- 💾 Python | C | C++ |c#
+- ⚙️ Git | Linux kali and Ubuntu
+
+---
+
+### 📌Things I did for fun and teaching.
+- [🔐 password-cracking-and-security](https://github.com/hundun-elon/password-cracking-and-security)
+- [🏦 hundun-banking](https://github.com/hundun-elon/hundun-banking)
+- [📚 knowledge](https://github.com/hundun-elon/knowledge)
+
+---
+
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/sphamandla-mbuyazi-b8704126b)  
+🌐 Portfolio: [sphamandlafa.github.io](https://sphamandlafa.github.io)
+
