@@ -5,13 +5,6 @@
 🚀 I love solving problems, could it be though building software, building machine learning models, learning new things or even breaking software.  
 🌍 I am currently building [Hundun Explains](https://hundun.vercel.app) and learning ideas and mathematics of in deep learning.  
 🔒 Check out my CTF profile: [picoCTF](https://play.picoctf.org/users/Sphamandla-Mbuyazi)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hundun-elon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### 🧰 Technologies
@@ -31,3 +24,8 @@
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/sphamandla-mbuyazi-b8704126b)  
 🌐 Portfolio: [sphamandla.com](https://sphamandlafa.github.io)
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hundun-elon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
