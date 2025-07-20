@@ -1,4 +1,4 @@
-# 💭 Siphamandla Mbuyazi
+# Sphamandla Mbuyazi
 
 **Computer Science Honors Student | Data Scientist | Software Developer | CTF Player | Founder of Hundun Explains**
 
