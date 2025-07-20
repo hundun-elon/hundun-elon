@@ -9,16 +9,16 @@
 ---
 
 ### 🧰 Technologies
-- 🌐 HTML | CSS | JavaScript | React | 
-- 💾 Python | C | C++ |c#
-- ⚙️ Git | Linux kali and Ubuntu
+-  HTML | CSS | JavaScript | React | 
+-  Python | C | C++ |c#
+-  Git | Linux kali and Ubuntu
 
 ---
 
 ### 📌Things I did for fun and teaching.
-- [🔐 password-cracking-and-security](https://github.com/hundun-elon/password-cracking-and-security)
-- [🏦 hundun-banking](https://github.com/hundun-elon/hundun-banking)
-- [📚 knowledge](https://github.com/hundun-elon/knowledge)
+- [ password-cracking-and-security](https://github.com/hundun-elon/password-cracking-and-security)
+- [ hundun-banking](https://github.com/hundun-elon/hundun-banking)
+- [ knowledge](https://github.com/hundun-elon/knowledge)
 
 ---
 
