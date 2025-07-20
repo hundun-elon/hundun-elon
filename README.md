@@ -23,5 +23,5 @@
 ---
 
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/sphamandla-mbuyazi-b8704126b)  
-🌐 Portfolio: [sphamandlafa.github.io](https://sphamandlafa.github.io)
+🌐 Portfolio: [sphamandla.com](https://sphamandlafa.github.io)
 
