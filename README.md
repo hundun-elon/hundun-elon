@@ -10,7 +10,7 @@
 
 ### 🧰 Technologies
 -  HTML | CSS | JavaScript | React | 
--  Python | C | C++ |c#
+-  Python | C | C++ | C# |Java
 -  Git | Linux kali and Ubuntu
 
 ---
