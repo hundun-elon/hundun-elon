@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hundun-elon&show_icons=true&theme=tokyonight)
-
 # Sphamandla Mbuyazi
 
 **Computer Science Honors Student | Data Scientist | Software Developer | CTF Player | Founder of Hundun Explains**
@@ -9,7 +7,8 @@
 🔒 Check out my CTF profile: [picoCTF](https://play.picoctf.org/users/Sphamandla-Mbuyazi)
 
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hundun-elon&show_icons=true&theme=tokyonight)
+---
 ### 🧰 Technologies
 -  HTML | CSS | JavaScript | React | 
 -  Python | C | C++ | C# |Java
